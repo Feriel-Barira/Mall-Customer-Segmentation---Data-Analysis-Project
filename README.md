@@ -1,1 +1,1 @@
-# Mall-Customer-Segmentation---Data-Analysis-Project
+# Mall Customer Segmentation - Data Analysis Project
