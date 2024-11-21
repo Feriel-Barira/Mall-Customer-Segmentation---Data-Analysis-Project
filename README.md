@@ -4,14 +4,14 @@ In this project, we perform a customer segmentation analysis using the KMeans cl
 ## Dataset
 The dataset used in this project is the "Mall Customer Segmentation Data," which contains information about 200 customers of a shopping mall. The key features include:
 
--Age: The age of the customer.
--Annual Income (k$): The annual income of the customer in thousands of dollars.
--Spending Score (1-100): A score assigned by the mall based on customer behavior and spending patterns.
+- **Age**: The age of the customer.
+- **Annual Income** (k$): The annual income of the customer in thousands of dollars.
+- **Spending Score** (1-100): A score assigned by the mall based on customer behavior and spending patterns.
 ## Objectives
 
-1.Preprocess the data by selecting relevant features and standardizing them.
-2.Apply KMeans clustering to segment customers into groups based on their behavior.
-3.Visualize the clusters using scatter plots to better understand customer segments.
+- Preprocess the data by selecting relevant features and standardizing them.
+- Apply KMeans clustering to segment customers into groups based on their behavior.
+- Visualize the clusters using scatter plots to better understand customer segments.
 ## Key Steps:
 
 ### 1. Data Preprocessing:
