@@ -23,9 +23,7 @@ The dataset used in this project is the "Mall Customer Segmentation Data," which
 - **Standardized the data**: To ensure fair clustering, I used the `StandardScaler` from `scikit-learn` to standardize the data. This step is essential because KMeans is sensitive to the scale of features.
 
 ### 2. Clustering with KMeans:
-- **Applied KMeans clustering**: I used the KMeans algorithm to segment customers into **4 clusters** based on the selected features. The number of clusters was chosen after performing an analysis (e.g., using the Elbow method).
-- **Predicted cluster labels**: After applying the KMeans model, I predicted the cluster labels for each customer and added these labels as a new column in the dataset.
-
+- **Applied KMeans clustering**: I used the KMeans algorithm to segment customers into **4 clusters** based on the selected features. The number of clusters was chosen after performing an analysis.
 ### 3. Visualization:
 - **Scatter plot creation**: A scatter plot was created to visualize the customer segments based on their **Annual Income** and **Spending Score**.
 - **Cluster representation**: Each cluster is represented by a different color, making it easy to understand the distribution and characteristics of each customer group.
