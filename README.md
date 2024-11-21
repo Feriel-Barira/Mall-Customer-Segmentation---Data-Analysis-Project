@@ -32,10 +32,9 @@ The dataset used in this project is the "Mall Customer Segmentation Data," which
 
 This project utilizes several powerful Python libraries for data manipulation, clustering, and visualization:
 
-- **Pandas**: Used for data manipulation and cleaning. It allows for efficient handling of the dataset, including selecting relevant features and preprocessing the data.
+- **Pandas**: For data manipulation and cleaning.
   
-- **Scikit-learn**: Provides the implementation of **KMeans clustering** and **StandardScaler** for feature scaling. These are essential tools for performing clustering and ensuring fair clustering by standardizing the data.
+- **Scikit-learn**: For implementing KMeans clustering and data scaling.
   
-- **Seaborn & Matplotlib**: Used for creating visualizations, such as scatter plots, to help visualize customer segments. These libraries provide customizable plotting options to better understand and present the results.
-
+- **Seaborn & Matplotlib**: For creating visualizations (scatter plots).
 
