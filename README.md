@@ -1,4 +1,4 @@
-# Mall Customer Segmentation - Data Analysis Project
+# Data Analysis Project
 ## Project Overview
 In this project, we perform a customer segmentation analysis using the KMeans clustering algorithm on a retail dataset from a mall. The goal is to segment customers based on their age, annual income, and spending score, allowing businesses to better understand and target different customer groups.
 ## Dataset
